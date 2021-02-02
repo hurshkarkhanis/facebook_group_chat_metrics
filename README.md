@@ -7,7 +7,7 @@ Downloaded my Facebook Messenger data, cleaned and organized it with Pandas, and
 Graphs and printouts can be seen in the images folder, as well as below. 
 
 ### What hours of the day are most/least active?
-![HOUR OF DAY]('/images/msg_by_hour_of_day.png')
+![HOUR OF DAY]('https://github.com/hurshkarkhanis/facebook_group_chat_metrics/blob/main/images/msg_by_hour_of_day.png')
 
 ### What percentage does each person contribute to the chat?
 ![SHARE PER USER]('/images/share_of_msg_per_user.png')
